@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlie Carlson"
 title_separator          : "-"
 name                     : &name "Charlie"
-description              : &description "Ph.D. Student at CU Boulder"
+description              : &description "PhD Student at CU Boulder"
 url                      : https://cacarlson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cacarlson/cacarlson.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : &CharlieCarlson51
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Charlie Carlson"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student at CU Boulder studying theoritical computer science."
+  bio              : "PhD Student at CU Boulder studying theoretical computer science."
   location         : "Boulder, CO"
   employer         :
   pubmed           :
