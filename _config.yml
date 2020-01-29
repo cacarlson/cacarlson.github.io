@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Alchier
+  username               : &CharlieACarlson
 facebook:
   username               : &CharlieCarlson51
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Alchier"
+  twitter          : "CharlieACarlson"
   vine             :
   weibo            :
   xing             :
@@ -120,7 +120,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/about.md
   - files
 exclude:
   - "*.sublime-project"
